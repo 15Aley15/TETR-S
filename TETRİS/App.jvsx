@@ -1,0 +1,11 @@
+import tkinter
+
+root=tkinter.Tk()
+root.title('İlk Program')
+root.iconbitmap('firefox-fox-icon')
+root.geometry('600x300')
+root.resizable(0,0)
+
+
+
+root.mainloop()
